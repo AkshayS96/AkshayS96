@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayS96.AkshayS96)
 
-<img height="350" width="400" alt="gif" align="right" src="https://media1.tenor.com/images/5af440099008428862aba16ac434547a/tenor.gif?itemid=19008194"></img>
+<img height="350" width="380" alt="gif" align="right" src="https://media1.tenor.com/images/5af440099008428862aba16ac434547a/tenor.gif?itemid=19008194"></img>
 
 I'm [Akshay Solanki](https://akshays96.github.io/), a passionate coder from India🇮🇳
 - Contact me on [asolanki786@gmail.com :mailbox_with_no_mail:](mailto:asolanki786@gmail.com)
